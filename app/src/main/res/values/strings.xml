@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobileWorkshop</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_hello_world_label">Tap on me</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_gps">GpsActivity</string>
+
+</resources>
